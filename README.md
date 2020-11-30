@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# RANDOM NAME GENERATOR REACT WEB APP
+This project was done using create-react-app. The api was fetched from https://randomuser.me/. This app serves as practice for learning react.js as well as fetching data from api.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
