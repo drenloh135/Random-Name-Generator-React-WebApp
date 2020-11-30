@@ -1,0 +1,39 @@
+* {
+  text-align: center;
+  margin: 0px 0px;
+}
+
+h1 {
+  background-color: #006b77;
+  color: white;
+  padding: 100px 0px;
+}
+
+h2 {
+  background-color: white;
+  color: #006b77;
+  padding: 50px 350px;
+}
+
+p {
+  font-weight: bold;
+  color: #006b77;
+  padding: 20px;
+}
+
+select {
+  padding: 5px;
+}
+
+.generatedName {
+  font-weight: bold;
+  font-size: larger;
+  color: #006b77;
+  padding: 30px;
+}
+button {
+  font-size: large;
+  background-color: #006b77;
+  color: white;
+  padding: 15px 10px;
+}
