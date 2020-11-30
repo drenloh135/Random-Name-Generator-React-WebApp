@@ -1,6 +1,7 @@
 # RANDOM NAME GENERATOR REACT WEB APP
 This project was done using create-react-app. The api was fetched from https://randomuser.me/. This app serves as practice for learning react.js as well as fetching data from api.
 
+The project is currently deployed on https://randomnamegenerator.netlify.app/.
 
 ## Getting Started with Create React App
 
