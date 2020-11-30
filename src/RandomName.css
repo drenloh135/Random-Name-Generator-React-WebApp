@@ -37,3 +37,24 @@ button {
   color: white;
   padding: 15px 10px;
 }
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    background-color: #006b77;
+    color: white;
+    padding: 80px 0px;
+  }
+  h2 {
+    background-color: white;
+    color: #006b77;
+    padding: 50px 20px;
+  }
+
+  button {
+    font-size: large;
+    background-color: #006b77;
+    color: white;
+    padding: 15px 10px;
+    margin-bottom: 50px;
+  }
+}
